@@ -2,9 +2,5 @@ pdf_to_docx_web/
 ├── app.py
 ├── templates/
 │   └── index.html
-├── static/
-│   └── (optional CSS or JS)
-├── uploads/
-│   └── (stores uploaded PDFs temporarily)
-├── converted/
-│   └── (stores DOCX outputs temporarily)
+├── uploads
+├── converted
