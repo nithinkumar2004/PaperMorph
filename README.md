@@ -23,5 +23,5 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/papermorph.git
+git clone https://github.com/nithinkumar2004/PaperMorph.git
 cd papermorph
